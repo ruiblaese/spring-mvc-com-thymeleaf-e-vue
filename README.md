@@ -24,7 +24,7 @@
 [Spring MVC: Crie um web app com Thymeleaf e Bootstrap](https://cursos.alura.com.br/course/spring-mvc-thymeleaf-bootstrap)    
 [Spring MVC: Autenticação com Spring Security, API Rest e AJAX](https://cursos.alura.com.br/course/spring-mvc-security-rest-vuejs-ajax)    
 
-Está aqui para referencias futuras.
+Projeto está aqui para referencias futuras.
 
 ## Contato
 
