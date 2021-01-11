@@ -26,6 +26,14 @@
 
 Projeto está aqui para referencias futuras.
 
+### Como utilizar
+- git clone
+- entrar na pasta com prompt
+- executar banco de dados com docker-compose `docker-compose up`
+- executar aplicação `mvn spring-boot:run`
+- acessar: http://localhost:8080
+  - login: rui \ senha: rui
+
 ## Contato
 
 <a href="https://www.linkedin.com/in/ruiblaese/" target="_blank" >

@@ -48,14 +48,20 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 		auth
 			.jdbcAuthentication()
 			.dataSource(dataSource)
-			.passwordEncoder(encoder);
+			.passwordEncoder(encoder);			 
 		
-//		UserDetails user =
-//				 User.builder()
-//					.username("maria")
-//					.password(encoder.encode("maria"))
-//					.roles("ADM")
-//					.build();
+		/*
+		UserDetails user =
+				 User.builder()
+					.username("rui")
+					.password(encoder.encode("rui"))
+					.roles("ADM")
+					.build();
+		
+		System.out.println(user);
+		System.out.println(encoder.encode("rui"));
+		*/
+		
 	}
 	
 }
