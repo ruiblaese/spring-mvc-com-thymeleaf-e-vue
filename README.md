@@ -1,5 +1,5 @@
 <h1 align="center">
-    Projeto curso AceleraDev Java da CodeNation
+    Spring MVC: Thymeleaf, Spring Security, API Rest, Vue e AJAX
 </h1>
 <p align="center">  
   <img alt="Made by Rui" src="https://img.shields.io/badge/Made%20by-ruiblaese-%2304D361">
